@@ -1,6 +1,6 @@
 {
     "name": "example",
-    "description": "This is an example role defined as JSON",
+    "description": "example role defined as JSON",
     "chef_type": "role",
     "json_class": "Chef::Role",
     "default_attributes": {
